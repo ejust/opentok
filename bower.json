@@ -1,0 +1,20 @@
+{
+  "name": "opentok",
+  "homepage": "https://github.com/ejust/opentok",
+  "authors": [
+    "Mik <grafmik@gmail.com>"
+  ],
+  "description": "Bower module for the opentok library",
+  "main": "js/opentok.js",
+  "keywords": [
+    "opentok"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
